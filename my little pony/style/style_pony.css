@@ -1,0 +1,92 @@
+h1 {
+    color: #121481;
+    padding: 2%;
+    font-size:400%;
+    text-align: center;
+}
+
+p {
+    font-size: 150%;
+    color: #7469B6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    margin: 2%;
+}
+
+ul {
+    font-size: 150%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 1%;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+a { 
+    margin-left: 100px;
+}
+
+body {
+    background-color: #E1AFD1;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#a1{
+    background-color: #37b0c9;
+    border: none;
+    padding: 15px 32px;
+    border-radius: 15px;
+    transition-duration: 500ms;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#a1:hover{
+    border-radius: 10px;
+    background-color: #f140a9;
+}
+
+#a2{
+    background-color: #37b0c9;
+    border: none;
+    padding: 15px 32px;
+    border-radius: 15px;
+    transition-duration: 500ms;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#a2:hover{
+    border-radius: 10px;
+    background-color: #f140a9;
+}
+
+#a3{
+    background-color: #37b0c9;
+    border: none;
+    padding: 15px 32px;
+    border-radius: 15px;
+    transition-duration: 500ms;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#a3:hover{
+    border-radius: 10px;
+    background-color: #f140a9;
+}
+
+.video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
